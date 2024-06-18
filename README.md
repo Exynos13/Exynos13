@@ -1,4 +1,4 @@
-## Hey Welcome to my Github!
+## Hey welcome to my Github!
 
 A recent graduate of Master's in Data Science with a passion to leverage data to uncover impactful insights using data. Most exciting part of working with data is building a story based on patterns relationships which aren't immediately obvious. I am eager to bring in my analytical and problem solving skills in an professional Environment. 
 
