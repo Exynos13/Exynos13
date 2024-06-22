@@ -1,6 +1,6 @@
 ## Hey welcome to my GitHub!
 
-A recent graduate of Master's in Data Science with a passion to leverage data to uncover impactful insights using data. Most exciting part of working with data is building a story based on patterns relationships which aren't immediately obvious. I am eager to bring in my analytical and problem solving skills in an professional Environment. 
+A graduate in Master's of Data Science with a passion to leverage data to uncover impactful insights using data. Most exciting part of working with data is building a story based on patterns relationships which aren't immediately obvious. I am eager to bring in my analytical and problem solving skills in an professional Environment. 
 
 My Latest work experience was with AMWTech:
 -	Spearheaded the development and deployment of a web app using Python Flask and Heroku, leveraging a RoBERTa-based transformer model for audience generation, enhancing targeted marketing strategies for advertisers with data-driven insights.
