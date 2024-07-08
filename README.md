@@ -59,7 +59,7 @@ A KNN-based recommender system using collaborative filtering to handle data spar
 
 ## Contact
 - **Email**: alexpeterthomas@gmail.com
-- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/alexpeterthomas/])
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/alexpeterthomas/)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
