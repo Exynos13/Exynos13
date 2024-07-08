@@ -26,7 +26,7 @@ Website to generate an audience interested in a topic from various social media 
 ![Python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)
 
 
-### [Tableau-Projects](https://github.com/exynos13/Tableau-Projects)
+### [Tableau-Projects](https://github.com/exynos13/Tableau_Projects)
 A repo where is store all my tableau work books.
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -59,7 +59,7 @@ A KNN-based recommender system using collaborative filtering to handle data spar
 
 ## Contact
 - **Email**: alexpeterthomas@gmail.com
-- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/alexpeterthomas/]))
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/alexpeterthomas/])
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
