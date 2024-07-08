@@ -19,7 +19,7 @@ In addition, I have 3 years of experience as a Solution Manager consultant with 
 - **Data Visualization**: Tableau, Power BI
 - **Frameworks & Tools**: Flask, SolMan, SAP GUI
 
-## some of my Repositories
+## Projects
 ### [Social_Media_Audience_Generator](https://github.com/exynos13/Social_Media_Audience_Generator)
 Website to generate an audience interested in a topic from various social media websites, ethically utilizing APIs.
 
